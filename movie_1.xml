@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE movie_catalog SYSTEM "movie_catalog.dtd">
+<movie_catalog>
+    <movie>
+        <id code="A1"></id>
+        <title>Затворници</title>
+        <genre>Криминален</genre>
+        <director name="director">Дени Вилньов</director>
+        <rate>
+            <rating>8.1</rating>
+            <popularity>113</popularity>
+        </rate>
+        <length>153</length>
+        <premiere>
+            <day value="day">20</day>
+            <month value="month">9</month>
+            <year value="year">2013</year>
+        </premiere>
+        <nationality>
+            <country>САЩ</country>
+            <language>Английски</language>
+            <locations>Джорджия, САЩ</locations>
+        </nationality>
+        <studio name="studio">Алкън Ентъртейнмънт</studio>
+        <plots>
+            <plot>
+                <plot_title>Разтърсващ трилър</plot_title>
+                <plot_author></plot_author>
+                <text>Джейк Джиленхол, Мария Бело и Хю Джакман са звездите в криминалния екшън-трилър “Затворници”,
+                    който разказва за обикновения провинциален дърводелец Келър Довър (Джакман),
+                    чиито живот се променя след като младата му дъщеря и нейната най-добра приятелка са отвлечени.</text>
+            </plot>
+        </plots>
+    </movie>
+</movie_catalog>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!ELEMENT movie_catalog (movie*)>
+        <!ELEMENT movie (id, title, genre, director, rate, length, premiere, nationality, studio?, plots)>
+        <!ELEMENT id (#PCDATA)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT genre (#PCDATA)>
+        <!ELEMENT director (#PCDATA)>
+        <!ELEMENT rate (rating, popularity?)>
+        <!ELEMENT rating (#PCDATA)>
+        <!ELEMENT popularity (#PCDATA)>
+        <!ELEMENT length (#PCDATA)>
+        <!ELEMENT premiere (day, month, year)>
+        <!ELEMENT day (#PCDATA)>
+        <!ELEMENT month (#PCDATA)>
+        <!ELEMENT year (#PCDATA)>
+        <!ELEMENT nationality (country, language, locations?)>
+        <!ELEMENT country (#PCDATA)>
+        <!ELEMENT language (#PCDATA)>
+        <!ELEMENT locations (#PCDATA)>
+        <!ELEMENT studio (#PCDATA)>
+        <!ELEMENT plots (plot+)>
+        <!ELEMENT plot (plot_title, plot_author?, text)>
+        <!ELEMENT plot_title (#PCDATA)>
+        <!ELEMENT plot_author (#PCDATA)>
+        <!ELEMENT text (#PCDATA)>
+
+        <!ATTLIST id code ID #REQUIRED>
+        <!ATTLIST director name CDATA #REQUIRED>
+        <!ATTLIST day value CDATA #REQUIRED>
+        <!ATTLIST month value CDATA #REQUIRED>
+        <!ATTLIST year value CDATA #REQUIRED>
+        <!ATTLIST studio name CDATA #REQUIRED>
+
+

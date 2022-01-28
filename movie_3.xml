@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE movie_catalog SYSTEM "movie_catalog.dtd">
+<movie_catalog>
+    <movie>
+        <id code="A3"></id>
+        <title>Маската на Зоро</title>
+        <genre>Екшън</genre>
+        <director name="director">Мартин Кемпбъл</director>
+        <rate>
+            <rating>6.8</rating>
+            <popularity>1398</popularity>
+        </rate>
+        <length>136</length>
+        <premiere>
+            <day value="day">9</day>
+            <month value="month">10</month>
+            <year value="year">1998</year>
+        </premiere>
+        <nationality>
+            <country>САЩ</country>
+            <language>Английски</language>
+            <locations>Сонора, Мексико</locations>
+        </nationality>
+        <studio name="studio">ТриСтар Пикчърс</studio>
+        <plots>
+            <plot>
+                <plot_title>За истинските фенове на екшън филмите.</plot_title>
+                <plot_author></plot_author>
+                <text>Началото на 19 век. Дон Диего де ла Вега защитава мексиканците от провинция
+                    Калифорнии от тиранията на господарите като се представя с името Зоро. По нареждане на шефа на
+                    полицията без доказателства той е хвърлен зад решетките, съпругата му Есперанса е убита, а дъщеря
+                    му Елена е отвлечена и отгледана от най-големия му враг Рафаел Монтеро. След 20 години Дон Диего
+                    избягва от затвора. Взема под своята опека младият Алехандро, обучава го и Алехандро става
+                    новият Зоро. След това той се жени за дъщерята на Дон Диего и се ражда синът им Хоакин.</text>
+            </plot>
+        </plots>
+    </movie>
+</movie_catalog>

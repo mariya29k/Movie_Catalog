@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE movie_catalog SYSTEM "movie_catalog.dtd">
+<movie_catalog>
+    <movie>
+        <id code="A2"></id>
+        <title>Джанго без окови</title>
+        <genre>Уестърн</genre>
+        <director name="director">Куентин Тарантино</director>
+        <rate>
+            <rating>8.4</rating>
+            <popularity>180</popularity>
+        </rate>
+        <length>165</length>
+        <premiere>
+            <day value="day">25</day>
+            <month value="month">12</month>
+            <year value="year">2012</year>
+        </premiere>
+        <nationality>
+            <country>САЩ</country>
+            <language>Английски</language>
+            <locations>Луизиана, САЩ</locations>
+        </nationality>
+        <studio name="studio">Юнивърсал Пикчърс</studio>
+        <plots>
+            <plot>
+                <plot_title>Не е загуба на време</plot_title>
+                <plot_author></plot_author>
+                <text>Историята в ДЖАНГО БЕЗ ОКОВИ ни отвежда в северноамериканския юг две години преди
+                    Гражданската война и ни запознава с роб (в изпълнение на носителя на Оскар Джейми Фокс),
+                    когото съдбата среща с немския ловец на глави д-р Кинг Шулц (отличения с Оскар Кристоф Валц).
+                    Шулц е по следите на братята Бритъл и само Джанго може да го отведе до тях. Шулц придобива Джанго с
+                    обещанието да го освободи след залавянето на братята – живи или мъртви.</text>
+            </plot>
+        </plots>
+    </movie>
+</movie_catalog>

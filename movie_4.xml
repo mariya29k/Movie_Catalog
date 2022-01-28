@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE movie_catalog SYSTEM "movie_catalog.dtd">
+<movie_catalog>
+    <movie>
+        <id code="A4"></id>
+        <title>Топло</title>
+        <genre >Комедия</genre>
+        <director name="director">Владимир Янчев</director>
+        <rate>
+            <rating>8.5</rating>
+            <popularity></popularity>
+        </rate>
+        <length>97</length>
+        <premiere>
+            <day value="day">20</day>
+            <month value="month">11</month>
+            <year value="year">1978</year>
+        </premiere>
+        <nationality>
+            <country>България</country>
+            <language>Български</language>
+            <locations>Студио Бояна, София, България</locations>
+        </nationality>
+        <studio name="studio">Българска кинематография</studio>
+        <plots>
+            <plot>
+                <plot_title>За ценителите на българското кино.</plot_title>
+                <plot_author></plot_author>
+                <text>Хората от софийската кооперация „Цар Крум“ решават сами да си осигурят парно отопление.
+                    Договарят се с трима майстори и дори им предплащат услугата. И започва голямото пробиване на дупки в стените,
+                    в подове, по таваните. В един хубав ден майсторите изчезват, но дупките остават.
+                    Оказва се, че тези дупки още повече ще сближат измамените и изнервени съкооператори.
+                    Те са готови на всичко за да се сдобият с топлото, дори когато откриват тримата майстори в затвора.</text>
+            </plot>
+        </plots>
+    </movie>
+</movie_catalog>

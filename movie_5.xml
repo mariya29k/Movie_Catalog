@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE movie_catalog SYSTEM "movie_catalog.dtd">
+<movie_catalog>
+    <movie>
+        <id code="A5"></id>
+        <title>Завръщане</title>
+        <genre>Комедия</genre>
+        <director name="director">Николай Илиев</director>
+        <rate>
+            <rating>6.9</rating>
+            <popularity></popularity>
+        </rate>
+        <length>110</length>
+        <premiere>
+            <day value="day">18</day>
+            <month value="month">10</month>
+            <year value="year">2019</year>
+        </premiere>
+        <nationality>
+            <country>България</country>
+            <language>Български</language>
+            <locations></locations>
+        </nationality>
+        <studio name="studio"></studio>
+        <plots>
+            <plot>
+                <plot_title>Българското съвременно кино не е загубено.</plot_title>
+                <plot_author></plot_author>
+                <text>Точно 25 години след паметното футболно лято на България през 94-та,
+                    трима приятели се завръщат у дома от всички краища на света, за да помогнат на друг свой приятел от
+                    детството да спаси родната си къща. Алекс трябва да убеди братовчед си Бранимир да не загърбва
+                    завета на дядо им, като събори фамилния им дом и построи на негово място модерна бизнес сграда.
+                    Единственият начин за това е приятелите от детството да се обединят отново и да победят професионалния
+                    отбор на Бранимир в градския маратон. Задачата се оказва изключително трудна,
+                    а поредица от безумни случки и абсурдни препятствия поставят на изпитания дългогодишното им приятелство</text>
+            </plot>
+        </plots>
+    </movie>
+</movie_catalog>
